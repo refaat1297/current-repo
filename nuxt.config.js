@@ -13,6 +13,7 @@ export default defineNuxtConfig({
   // extends: ['github:LearnVueCo/nuxt-extends-demo']
   // extends: ['github:refaat1297/arabia-meet']
   // extends: ['../../portfolio/arabia-meet']
-  extends: ['github:refaat1297/arabia-meet']
+  extends: ['github:refaat1297/refaat1297#subTask/new-ui']
+  // extends: ['../../portfolio/refaat1297']
   // extends: '../shared-repo'
 })
